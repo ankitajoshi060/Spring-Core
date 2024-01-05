@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:c="http://www.springframework.org/schema/c"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/context
+		http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean class="com.constructorinjector.Address" name="address1"> <constructor-arg 
+		value="1001" /> <constructor-arg value="NH2" /> <constructor-arg value="thane" 
+		/> </bean>
+
+	<!-- <bean class="com.constructorinjector.Address" name="address1"
+		c:addressId="102" c:street="NH3" c:city="Mumbai">
+	</bean> -->
+
+	<bean class="com.constructorinjector.Student" name="student1">
+		<constructor-arg value="1" />
+		<constructor-arg value="mark" />
+		<constructor-arg>
+			<list>
+				<value>java</value>
+				<value>python</value>
+				<value>golang</value>
+			</list>
+		</constructor-arg>
+		<constructor-arg ref="address1"></constructor-arg>
+	</bean>
+
+</beans>
+		
