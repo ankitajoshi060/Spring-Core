@@ -28,7 +28,7 @@
 		<property name="studentAddress" value="Mumbai" />
 	</bean>
 
-	<!-- Third bean (using p schema to set values)-->
+	<!-- Third bean -->
 	<bean class="com.springcore.Student" name="student3"
 		p:studentId="103" p:studentName="John" p:studentAddress="Nashik">
 	</bean>
