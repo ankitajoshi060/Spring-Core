@@ -7,8 +7,6 @@
 	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
 		http://www.springframework.org/schema/context
 		http://www.springframework.org/schema/context/spring-context.xsd">
-		
-		<!-- Three ways we can set the value of properties -->
 	<!-- first bean -->
 	<bean class="com.springcore.Student" name="student1">
 		<property name="studentId">
@@ -21,15 +19,12 @@
 			<value>Thane</value>
 		</property>
 	</bean>
-	<!--second bean -->
+<!--second bean  -->
 	<bean class="com.springcore.Student" name="student2">
 		<property name="studentId" value="102" />
 		<property name="studentName" value="clark" />
 		<property name="studentAddress" value="Mumbai" />
-	</bean>
+		
 
-	<!-- Third bean -->
-	<bean class="com.springcore.Student" name="student3"
-		p:studentId="103" p:studentName="John" p:studentAddress="Nashik">
 	</bean>
 </beans>
