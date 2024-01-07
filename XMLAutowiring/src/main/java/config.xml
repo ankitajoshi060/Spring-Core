@@ -19,7 +19,7 @@
 		<property name="employeeName" value="clark" />
 	</bean> -->
 
-	<bean class="com.autowiring.Company" name="company" autowire="constructor">
+	<bean class="com.autowiring.Company" name="company" autowire="byName">
 		<property name="companyId" value="1"  />
 		<property name="companyName" value="abc" />
 
