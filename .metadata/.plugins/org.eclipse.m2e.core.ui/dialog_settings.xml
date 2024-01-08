@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\JAVA\Spring(durgesh coding)\XMLAutowiring\src\main\java\com\autowiring\App.java"/>
 			<item value="D:\JAVA\Spring(durgesh coding)\SetterInjection"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,18 +27,21 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.autowire.annotation"/>
 			<item value="com.autowiring"/>
 			<item value="com.beanlifecycle.BeanLifeCycle"/>
 			<item value="com.constructorinjector"/>
 			<item value="com.springcore"/>
 		</list>
 		<list key="groupId">
+			<item value="com.autowire.annotation"/>
 			<item value="com.autowiring"/>
 			<item value="com.beanlifecycle"/>
 			<item value="com.constructorinjector"/>
 			<item value="com.springcore"/>
 		</list>
 		<list key="artifactId">
+			<item value="AnnotationAutowiring"/>
 			<item value="Autowiring"/>
 			<item value="BeanLifeCycle"/>
 			<item value="ConstructorInjector"/>
