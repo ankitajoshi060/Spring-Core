@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/context
+		http://www.springframework.org/schema/context/spring-context.xsd
+		http://www.springframework.org/schema/util
+		http://www.springframework.org/schema/util/spring-util.xsd">
+		
+		<util:list list-class="java.util.LinkedList" id="phonesList">
+			<value>2143749234</value>
+			<value>9387093473</value>
+			<value>2353456546</value>
+			<value>3457847343</value>
+		</util:list>
+		
+		<util:map map-class="java.util.HashMap" id="courseList">
+			<entry key="java" value="1 month"/>
+			<entry key="python" value="2 month"/>
+			<entry key="c" value="3 month"/>
+		</util:map>
+		
+		<util:set set-class="java.util.HashSet" id="addressList">
+			<value>thane</value>
+			<value>mumbai</value>
+		</util:set>
+		
+		<util:properties id="prop">
+			<prop key="driver-class">com.mysql.jdbc.Driver</prop>
+			<prop key="url">jdbc:mysql://localhost:3306/database</prop>
+		</util:properties>
+		
+		
+		<bean class="com.springcore.standalone.collection.Employee" name="employee1">
+			<property name="employeeId" value="101"/>
+			<property name="phones" ref="phonesList"/>
+			<property name="courses" ref="courseList"/>
+			<property name="address" ref="addressList"/>
+			<property name="properties" ref="prop"/>
+		</bean>
+		
+		</beans>
