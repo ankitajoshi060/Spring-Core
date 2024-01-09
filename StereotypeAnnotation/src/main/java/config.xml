@@ -17,19 +17,19 @@
 			<value>thane</value>
 			<value>mumbai</value>
 		</util:list>
-		
-		
-		<util:set set-class="java.util.HashSet" id="courseSet">
-        <bean class="com.annotation.component.StereotypeAnnotation.Course">
+		 <bean class="com.annotation.component.StereotypeAnnotation.Course" name="course1">
             <property name="courseId" value="1"/>
             <property name="courseName" value="java"/>
         </bean>
 
-        <bean class="com.annotation.component.StereotypeAnnotation.Course">
+        <bean class="com.annotation.component.StereotypeAnnotation.Course" name="course2">
             <property name="courseId" value="2"/>
             <property name="courseName" value="spring"/>
         </bean>
-        <!-- Add more Course beans as needed -->
+		
+		<util:set set-class="java.util.HashSet" id="courseSet">
+       		<ref bean="course1" />
+       		<ref bean="course2"/>
     </util:set>
 		
 		</beans>

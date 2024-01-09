@@ -17,7 +17,7 @@ public class Student {
 	@Value("#{addressList}")
 	private List<String> studentAddress;
 	
-	@Autowired()
+	@Value("#{courseSet}")
 	private Set<Course>course;
 
 	

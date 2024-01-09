@@ -3,12 +3,10 @@ package com.annotation.component.StereotypeAnnotation;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
-@Component
 public class Course {
 
-	@Value("courseSet")
+	
 	private int courseId;
-	@Value("courseSet")
 	private String courseName;
 	public Course() {
 		super();
