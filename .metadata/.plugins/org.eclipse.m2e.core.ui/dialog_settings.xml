@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\JAVA\Spring(durgesh coding)\SpringExpressionLanguage\src\main\java\com\spel\App.java"/>
 			<item value="D:\JAVA\Spring(durgesh coding)\StereotypeAnnotation\src\main\java\com\annotation\component\StereotypeAnnotation\App.java"/>
 			<item value="D:\JAVA\Spring(durgesh coding)\SetterInjection"/>
 			<item value="D:\JAVA\Spring(durgesh coding)\XMLAutowiring\src\main\java\com\autowiring\App.java"/>
@@ -28,6 +29,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.annotation"/>
 			<item value="com.spel"/>
 			<item value="com.annotation.component.StereotypeAnnotation"/>
 			<item value="com.autowire.annotation"/>
@@ -37,6 +39,7 @@
 			<item value="com.springcore"/>
 		</list>
 		<list key="groupId">
+			<item value="com.annotation"/>
 			<item value="com.spel"/>
 			<item value="com.annotation.component"/>
 			<item value="com.autowire.annotation"/>
@@ -46,6 +49,7 @@
 			<item value="com.springcore"/>
 		</list>
 		<list key="artifactId">
+			<item value="NoXmlCofiguration"/>
 			<item value="SpringExpressionLanguage"/>
 			<item value="StereotypeAnnotation"/>
 			<item value="AnnotationAutowiring"/>
