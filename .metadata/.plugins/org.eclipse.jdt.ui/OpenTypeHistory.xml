@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=SpringOrm/C:\/Users\/ankit\/.m2\/repository\/org\/springframework\/spring-tx\/5.3.27\/spring-tx-5.3.27.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-tx=/=/maven.version=/5.3.27=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.transaction(TransactionManager.class[TransactionManager" modifiers="1537" timestamp="1705144638890"/>
+    <typeInfo handle="=SpringOrm/C:\/Users\/ankit\/.m2\/repository\/org\/springframework\/spring-orm\/5.3.27\/spring-orm-5.3.27.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-orm=/=/maven.version=/5.3.27=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.orm.hibernate5(HibernateTransactionManager.class[HibernateTransactionManager" modifiers="33" timestamp="1705144638766"/>
+</typeInfoHistroy>

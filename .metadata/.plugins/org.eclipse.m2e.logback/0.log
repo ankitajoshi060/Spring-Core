@@ -2376,3 +2376,642 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (5) references 
 2024-01-09 23:37:59,425 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\NoXmlCofiguration\src\main\resources
 2024-01-09 23:37:59,429 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-01-09 23:37:59,429 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\NoXmlCofiguration\src\test\resources
+2024-01-13 15:29:13,396 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-13 15:29:21,425 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:29:21,428 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\StereotypeAnnotation\src\main\resources
+2024-01-13 15:29:21,437 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:29:21,438 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\StereotypeAnnotation\src\test\resources
+2024-01-13 15:30:44,332 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [605])
+2024-01-13 15:30:44,355 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2024-01-13 15:30:44,356 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2024-01-13 15:30:44,357 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2024-01-13 15:30:44,358 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2024-01-13 15:30:44,358 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2024-01-13 15:30:44,358 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2024-01-13 15:30:44,359 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2024-01-13 15:30:44,359 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2024-01-13 15:30:44,359 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2024-01-13 15:30:44,360 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2024-01-13 15:30:44,360 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2024-01-13 15:30:44,361 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2024-01-13 15:30:44,361 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2024-01-13 15:30:44,362 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2024-01-13 15:30:44,362 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2024-01-13 15:30:44,363 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2024-01-13 15:30:44,364 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2024-01-13 15:30:44,365 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-01-13 15:30:44,365 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2024-01-13 15:30:44,365 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2024-01-13 15:30:44,366 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2024-01-13 15:30:44,366 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-01-13 15:30:44,367 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2024-01-13 15:30:44,367 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2024-01-13 15:30:44,367 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2024-01-13 15:30:44,368 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2024-01-13 15:30:44,368 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2024-01-13 15:30:44,368 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2024-01-13 15:30:44,368 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-01-13 15:30:44,369 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-01-13 15:30:44,369 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2024-01-13 15:30:44,369 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2024-01-13 15:30:44,370 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2024-01-13 15:30:44,370 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2024-01-13 15:30:44,370 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2024-01-13 15:30:44,370 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2024-01-13 15:30:44,371 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2024-01-13 15:30:44,371 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2024-01-13 15:30:44,371 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2024-01-13 15:30:44,374 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [10])
+2024-01-13 15:30:44,379 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2024-01-13 15:30:44,379 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [917])
+2024-01-13 15:30:44,381 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2024-01-13 15:30:44,382 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [32])
+2024-01-13 15:30:44,384 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-01-13 15:30:44,384 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [30])
+2024-01-13 15:30:44,386 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ankit\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2024-01-13 15:30:44,394 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ankit\AppData\Local\Temp\m2e-archetypeGenerator16183911786283894516":
+2024-01-13 15:30:44,403 [Worker-21: Launching mavenrun-a3822f06-c4c4-4844-aef5-7a2096bd6575] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=com.spring.orm -DartifactId=SpringOrm -Dversion=0.0.1-SNAPSHOT -Dpackage=com.spring.orm -DoutputDirectory="D:\JAVA\Spring(durgesh coding)" -Dstyle.color=always -U archetype:generate
+2024-01-13 15:31:16,278 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml
+2024-01-13 15:31:19,393 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 15:31:19,833 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/main/java
+2024-01-13 15:31:19,843 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/test/java
+2024-01-13 15:31:19,960 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-01-13 15:31:20,360 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:31:20,361 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:31:20,364 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:31:20,364 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:35:33,419 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 15:35:34,981 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:35:34,981 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:35:34,985 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:35:34,985 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:35:35,390 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/6.0.11/spring-orm-6.0.11-sources.jar
+2024-01-13 15:35:35,817 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/6.0.11/spring-orm-6.0.11-sources.jar
+2024-01-13 15:35:35,824 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:6.0.11
+2024-01-13 15:35:36,016 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.0.11/spring-jdbc-6.0.11-sources.jar
+2024-01-13 15:35:36,396 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:35:36,396 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:35:36,399 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:35:36,399 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:35:36,675 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.0.11/spring-jdbc-6.0.11-sources.jar
+2024-01-13 15:35:36,679 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:6.0.11
+2024-01-13 15:35:36,924 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.11/spring-tx-6.0.11-sources.jar
+2024-01-13 15:35:37,255 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.11/spring-tx-6.0.11-sources.jar
+2024-01-13 15:35:37,259 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:6.0.11
+2024-01-13 15:35:37,506 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:35:37,506 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:35:37,509 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:35:37,509 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:36:05,166 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:36:05,166 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:36:05,169 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:36:05,170 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:36:21,324 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:36:21,324 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:36:21,329 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:36:21,329 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:36:33,422 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:36:33,423 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:36:33,433 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:36:33,434 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:37:13,098 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:13,099 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:37:13,103 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:13,103 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:37:17,462 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:17,462 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:37:17,465 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:17,465 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:37:23,996 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:23,997 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:37:24,000 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:24,003 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:37:32,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:32,870 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:37:32,874 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:32,875 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:37:43,113 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:43,114 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:37:43,119 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:37:43,119 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:39:14,779 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:39:14,779 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:39:14,783 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:39:14,783 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:39:20,016 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:39:20,018 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:39:20,022 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:39:20,023 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:39:27,154 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:39:27,154 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:39:27,160 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:39:27,160 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:39:59,890 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:39:59,891 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:39:59,895 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:39:59,896 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:40:04,139 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:40:04,139 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:40:04,143 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:40:04,143 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:40:28,490 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:40:28,491 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\XMLAutowiring\src\main\resources
+2024-01-13 15:40:28,493 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:40:28,493 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\XMLAutowiring\src\test\resources
+2024-01-13 15:41:46,679 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:41:46,679 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:41:46,683 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:41:46,683 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:42:01,068 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:42:01,068 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:42:01,072 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:42:01,073 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:42:06,198 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:42:06,199 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:42:06,202 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:42:06,202 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:50:15,729 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:50:15,729 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:50:15,731 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:50:15,731 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:53:08,451 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:53:08,452 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:53:08,454 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:53:08,455 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:57:46,672 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:57:46,672 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:57:46,675 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:57:46,675 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 15:59:38,538 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:59:38,539 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 15:59:38,541 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 15:59:38,541 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:00:00,954 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:00:00,955 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:00:00,957 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:00:00,957 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:04:41,744 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:04:41,745 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:04:41,748 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:04:41,748 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:05:35,141 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:05:35,142 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:05:35,145 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:05:35,146 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:07:34,703 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:07:34,703 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:07:34,706 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:07:34,706 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:13:22,269 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:13:22,269 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:13:22,273 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:13:22,274 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:13:39,507 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:13:39,509 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:13:39,513 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:13:39,514 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:13:41,795 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:13:41,796 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:13:41,799 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:13:41,800 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:15:39,483 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:15:39,484 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:15:39,528 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:15:39,528 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:15:48,995 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:15:48,996 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:15:49,000 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:15:49,001 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:15:52,084 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:15:52,084 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:15:52,087 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:15:52,087 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:16:21,722 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:16:21,723 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:16:21,726 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:16:21,726 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:18:03,512 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:18:03,513 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:18:03,515 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:18:03,515 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:22:59,436 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-13 16:22:59,962 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:23:00,229 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/main/java
+2024-01-13 16:23:00,231 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/test/java
+2024-01-13 16:23:00,455 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-01-13 16:23:00,701 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:23:00,701 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:23:00,704 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:23:00,705 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:24:10,364 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:24:10,364 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:24:10,368 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:24:10,368 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:24:41,580 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:24:42,185 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.22/byte-buddy-1.10.22.jar
+2024-01-13 16:24:42,442 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.3.Final/hibernate-core-5.5.3.Final.jar
+2024-01-13 16:24:42,442 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar
+2024-01-13 16:24:46,748 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar
+2024-01-13 16:24:47,875 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.22/byte-buddy-1.10.22.jar
+2024-01-13 16:24:48,404 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.3.Final/hibernate-core-5.5.3.Final.jar
+2024-01-13 16:24:48,526 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:24:48,526 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:24:48,530 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:24:48,530 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:24:49,605 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.3.Final/hibernate-core-5.5.3.Final-sources.jar
+2024-01-13 16:24:49,750 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:24:49,751 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:24:49,753 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:24:49,753 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:24:51,749 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.3.Final/hibernate-core-5.5.3.Final-sources.jar
+2024-01-13 16:24:51,753 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.5.3.Final
+2024-01-13 16:24:51,820 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final-sources.jar
+2024-01-13 16:24:52,330 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final-sources.jar
+2024-01-13 16:24:52,334 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.4.2.Final
+2024-01-13 16:24:52,429 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA-sources.jar
+2024-01-13 16:24:52,764 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA-sources.jar
+2024-01-13 16:24:52,770 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.27.0-GA
+2024-01-13 16:24:52,840 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.22/byte-buddy-1.10.22-sources.jar
+2024-01-13 16:24:53,347 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.22/byte-buddy-1.10.22-sources.jar
+2024-01-13 16:24:53,347 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-13 16:24:53,352 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.10.22
+2024-01-13 16:24:53,423 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final-sources.jar
+2024-01-13 16:24:53,511 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final-sources.jar
+2024-01-13 16:24:53,517 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss:jandex:2.2.3.Final
+2024-01-13 16:24:53,919 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:24:54,106 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/main/java
+2024-01-13 16:24:54,107 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/test/java
+2024-01-13 16:24:54,331 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-01-13 16:24:54,832 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:24:54,832 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:24:54,834 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:24:54,834 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:27:02,858 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:27:03,183 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:27:03,183 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:27:03,186 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:27:03,186 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:27:04,385 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:27:04,385 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:27:04,389 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:27:04,389 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:27:49,714 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-13 16:27:50,038 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:27:50,249 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/main/java
+2024-01-13 16:27:50,250 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/test/java
+2024-01-13 16:27:50,381 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-01-13 16:27:50,637 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:27:50,638 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:27:50,643 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:27:50,643 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:28:01,748 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:01,748 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:28:01,751 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:01,751 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:28:05,488 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:28:05,793 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:05,794 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:28:05,797 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:05,798 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:28:11,818 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-13 16:28:12,157 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:28:12,376 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/main/java
+2024-01-13 16:28:12,377 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/test/java
+2024-01-13 16:28:12,523 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-01-13 16:28:12,724 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:12,724 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:28:12,729 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:12,730 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:28:42,132 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:42,133 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:28:42,136 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:42,136 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:28:44,367 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:44,368 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:28:44,370 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:28:44,370 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:30:33,173 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:30:33,174 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:30:33,176 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:30:33,176 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:32:50,242 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:32:50,543 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:32:50,543 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:32:50,548 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:32:50,548 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:32:51,799 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:32:51,799 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:32:51,801 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:32:51,801 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:33:26,278 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:33:26,279 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:33:26,282 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:33:26,283 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:35:27,811 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-13 16:35:28,212 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:35:28,389 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/main/java
+2024-01-13 16:35:28,390 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/test/java
+2024-01-13 16:35:28,560 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-01-13 16:35:28,753 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:35:28,754 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:35:28,756 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:35:28,756 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:35:34,001 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:35:34,135 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:35:34,135 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:35:34,137 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:35:34,137 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:38:44,668 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:38:44,819 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-01-13 16:38:44,943 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:38:44,943 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:38:44,945 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:38:44,946 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:38:46,195 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:38:46,195 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:38:46,198 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:38:46,198 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:40:29,594 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:40:29,595 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:40:29,598 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:40:29,598 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:40:42,269 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:40:42,469 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:40:42,469 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:40:42,471 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:40:42,471 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:40:43,519 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.32.Final/hibernate-core-5.4.32.Final-sources.jar
+2024-01-13 16:40:44,475 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.32.Final/hibernate-core-5.4.32.Final-sources.jar
+2024-01-13 16:40:44,480 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.4.32.Final
+2024-01-13 16:40:44,559 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final-sources.jar
+2024-01-13 16:40:45,282 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final-sources.jar
+2024-01-13 16:40:45,290 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.4.1.Final
+2024-01-13 16:40:45,382 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/dom4j/dom4j/2.1.3/dom4j-2.1.3-sources.jar
+2024-01-13 16:40:45,557 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/dom4j/dom4j/2.1.3/dom4j-2.1.3-sources.jar
+2024-01-13 16:40:45,561 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.dom4j:dom4j:2.1.3
+2024-01-13 16:45:29,071 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:45:29,253 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:45:29,253 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:45:29,256 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:45:29,256 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:45:41,165 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-13 16:45:41,453 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:45:41,605 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/main/java
+2024-01-13 16:45:41,606 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/test/java
+2024-01-13 16:45:41,870 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-01-13 16:45:42,099 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:45:42,099 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:45:42,101 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:45:42,101 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:47:22,835 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:47:23,214 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:23,215 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:47:23,217 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:23,218 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:47:24,027 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.27/spring-core-5.3.27-sources.jar
+2024-01-13 16:47:24,253 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.27/spring-core-5.3.27-sources.jar
+2024-01-13 16:47:24,258 [Worker-60: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.27
+2024-01-13 16:47:24,299 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.27/spring-jcl-5.3.27-sources.jar
+2024-01-13 16:47:24,501 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.27/spring-jcl-5.3.27-sources.jar
+2024-01-13 16:47:24,505 [Worker-60: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.27
+2024-01-13 16:47:24,543 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.3.27/spring-orm-5.3.27-sources.jar
+2024-01-13 16:47:24,617 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.3.27/spring-orm-5.3.27-sources.jar
+2024-01-13 16:47:24,622 [Worker-60: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:5.3.27
+2024-01-13 16:47:24,628 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:24,629 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:47:24,630 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:24,630 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:47:24,721 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.27/spring-jdbc-5.3.27-sources.jar
+2024-01-13 16:47:24,896 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.27/spring-jdbc-5.3.27-sources.jar
+2024-01-13 16:47:24,900 [Worker-60: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.3.27
+2024-01-13 16:47:24,960 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.27/spring-tx-5.3.27-sources.jar
+2024-01-13 16:47:25,088 [Worker-60: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.27/spring-tx-5.3.27-sources.jar
+2024-01-13 16:47:25,092 [Worker-60: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.3.27
+2024-01-13 16:47:25,712 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:25,713 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:47:25,715 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:25,715 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:47:34,179 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:34,179 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:47:34,182 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:34,182 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:47:40,747 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-13 16:47:41,042 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrm:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrm\pom.xml.
+2024-01-13 16:47:41,379 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/main/java
+2024-01-13 16:47:41,380 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrm/src/test/java
+2024-01-13 16:47:41,652 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-01-13 16:47:41,906 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:41,906 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:47:41,909 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:47:41,910 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:51:24,514 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:51:24,514 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:51:24,517 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:51:24,517 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:51:39,048 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:51:39,048 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:51:39,051 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:51:39,052 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:55:03,319 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:55:03,319 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:55:03,322 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:55:03,322 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:56:15,832 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:56:15,832 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:56:15,834 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:56:15,834 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:56:26,166 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:56:26,166 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:56:26,169 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:56:26,169 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:56:31,461 [Worker-73: Launching App (11)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:56:31,462 [Worker-73: Launching App (11)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:56:31,464 [Worker-73: Launching App (11)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:56:31,465 [Worker-73: Launching App (11)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 16:58:52,451 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:58:52,452 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\main\resources
+2024-01-13 16:58:52,455 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 16:58:52,455 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrm\src\test\resources
+2024-01-13 17:19:41,987 [Worker-73: Launching mavenrun-3c7f4416-4a1a-46ed-abe1-d08654940609] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ankit\AppData\Local\Temp\m2e-archetypeGenerator16244394625417785805":
+2024-01-13 17:19:41,987 [Worker-73: Launching mavenrun-3c7f4416-4a1a-46ed-abe1-d08654940609] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=com.spring.orm -DartifactId=SpringOrmApplication -Dversion=0.0.1-SNAPSHOT -Dpackage=com.spring.orm.SpringOrmApplication -DoutputDirectory="D:\JAVA\Spring(durgesh coding)" -Dstyle.color=always -U archetype:generate
+2024-01-13 17:19:52,762 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\pom.xml
+2024-01-13 17:19:52,856 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrmApplication:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\pom.xml.
+2024-01-13 17:19:53,143 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrmApplication/src/main/java
+2024-01-13 17:19:53,154 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringOrmApplication/src/test/java
+2024-01-13 17:19:53,235 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-01-13 17:19:53,614 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:19:53,614 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:19:53,616 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:19:53,617 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:46:41,088 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrmApplication:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\pom.xml.
+2024-01-13 17:46:41,116 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:46:41,116 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:46:41,118 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:46:41,118 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:46:47,756 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrmApplication:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\pom.xml.
+2024-01-13 17:46:47,775 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:46:47,775 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:46:47,776 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:46:47,776 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:51:01,604 [Worker-86: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.orm:SpringOrmApplication:0.0.1-SNAPSHOT @ D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\pom.xml.
+2024-01-13 17:51:01,751 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:01,751 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:51:01,751 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:01,751 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:51:02,755 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.27/spring-context-5.3.27-sources.jar
+2024-01-13 17:51:02,975 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:02,975 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:51:02,980 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:02,980 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:51:03,421 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.27/spring-context-5.3.27-sources.jar
+2024-01-13 17:51:03,423 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.27
+2024-01-13 17:51:03,477 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.27/spring-aop-5.3.27-sources.jar
+2024-01-13 17:51:03,570 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.27/spring-aop-5.3.27-sources.jar
+2024-01-13 17:51:03,573 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.27
+2024-01-13 17:51:03,610 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.27/spring-beans-5.3.27-sources.jar
+2024-01-13 17:51:03,743 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.27/spring-beans-5.3.27-sources.jar
+2024-01-13 17:51:03,746 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.27
+2024-01-13 17:51:03,792 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.27/spring-expression-5.3.27-sources.jar
+2024-01-13 17:51:03,857 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.27/spring-expression-5.3.27-sources.jar
+2024-01-13 17:51:03,859 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.27
+2024-01-13 17:51:04,593 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.3.27.Final/hibernate-core-5.3.27.Final-sources.jar
+2024-01-13 17:51:05,956 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.3.27.Final/hibernate-core-5.3.27.Final-sources.jar
+2024-01-13 17:51:05,958 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.3.27.Final
+2024-01-13 17:51:06,048 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.12/byte-buddy-1.11.12-sources.jar
+2024-01-13 17:51:06,367 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.12/byte-buddy-1.11.12-sources.jar
+2024-01-13 17:51:06,369 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.11.12
+2024-01-13 17:51:06,449 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final-sources.jar
+2024-01-13 17:51:06,544 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final-sources.jar
+2024-01-13 17:51:06,548 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss:jandex:2.0.5.Final
+2024-01-13 17:51:06,773 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.5.Final/hibernate-commons-annotations-5.0.5.Final-sources.jar
+2024-01-13 17:51:07,154 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.5.Final/hibernate-commons-annotations-5.0.5.Final-sources.jar
+2024-01-13 17:51:07,156 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:5.0.5.Final
+2024-01-13 17:51:07,335 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:07,335 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:51:07,337 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:07,337 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:51:26,199 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:26,199 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:51:26,200 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:26,200 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:51:34,349 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:34,349 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:51:34,351 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:34,351 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:51:46,217 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:46,217 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:51:46,219 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:51:46,219 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:52:05,103 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:52:05,103 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:52:05,105 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:52:05,105 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:52:19,323 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:52:19,323 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:52:19,326 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:52:19,326 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:52:37,514 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:52:37,515 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:52:37,517 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:52:37,517 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:53:17,800 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:53:17,800 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:53:17,802 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:53:17,802 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:54:49,455 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:54:49,456 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:54:49,458 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:54:49,458 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:57:41,914 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:57:41,914 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:57:41,916 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:57:41,916 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:58:41,188 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:58:41,188 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:58:41,190 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:58:41,190 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 17:59:10,924 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:59:10,924 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 17:59:10,927 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 17:59:10,927 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:00:39,659 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:00:39,660 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:00:39,661 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:00:39,661 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:00:45,594 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:00:45,594 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:00:45,595 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:00:45,595 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:00:57,413 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:00:57,413 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:00:57,414 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:00:57,415 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:01:21,308 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:01:21,308 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:01:21,310 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:01:21,310 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:02:13,185 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:02:13,185 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:02:13,187 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:02:13,187 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:02:31,424 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:02:31,426 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:02:31,427 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:02:31,427 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:03:19,254 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:03:19,255 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:03:19,256 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:03:19,256 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:04:26,382 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:04:26,383 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:04:26,384 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:04:26,384 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:04:33,614 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:04:33,616 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:04:33,616 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:04:33,616 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 18:05:17,576 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:05:17,576 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 18:05:17,578 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 18:05:17,578 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-13 19:21:48,643 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 19:21:48,643 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-13 19:21:48,647 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-13 19:21:48,651 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 11:47:59,606 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-14 11:57:54,251 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 11:57:54,336 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 11:57:54,340 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 11:57:54,340 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 12:01:56,002 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:01:56,002 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 12:01:56,004 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:01:56,005 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 12:02:30,708 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:02:30,708 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 12:02:30,710 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:02:30,710 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 12:05:34,717 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:05:34,718 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 12:05:34,719 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:05:34,719 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 12:06:36,383 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:06:36,384 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 12:06:36,385 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:06:36,385 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 12:06:41,426 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:06:41,426 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 12:06:41,429 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:06:41,429 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 12:09:19,197 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:09:19,197 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 12:09:19,199 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:09:19,199 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 12:12:09,149 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:12:09,149 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 12:12:09,154 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:12:09,155 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
+2024-01-14 12:14:41,281 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:14:41,281 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\main\resources
+2024-01-14 12:14:41,283 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-14 12:14:41,283 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Spring(durgesh coding)\SpringOrmApplication\src\test\resources
