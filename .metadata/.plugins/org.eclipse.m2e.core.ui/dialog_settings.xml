@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\JAVA\Spring(durgesh coding)\NoXmlCofiguration"/>
 			<item value="D:\JAVA\Spring(durgesh coding)\XMLAutowiring"/>
 			<item value="D:\JAVA\Spring(durgesh coding)\SpringExpressionLanguage\src\main\java\com\spel\App.java"/>
 			<item value="D:\JAVA\Spring(durgesh coding)\StereotypeAnnotation\src\main\java\com\annotation\component\StereotypeAnnotation\App.java"/>
@@ -30,8 +31,12 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.spring.orm.SpringOrmApplication"/>
+			<item value="com.springaop.SpringAopXmlConfiguration"/>
+			<item value="com.springaop"/>
+			<item value="com.springorm.SpringOrmPractice2"/>
+			<item value="com.hibernate"/>
 			<item value="com.spring.orm"/>
+			<item value="com.spring.orm.SpringOrmApplication"/>
 			<item value="com.annotation"/>
 			<item value="com.spel"/>
 			<item value="com.annotation.component.StereotypeAnnotation"/>
@@ -42,6 +47,9 @@
 			<item value="com.springcore"/>
 		</list>
 		<list key="groupId">
+			<item value="com.springaop"/>
+			<item value="com.springorm"/>
+			<item value="com.hibernate"/>
 			<item value="com.spring.orm"/>
 			<item value="com.annotation"/>
 			<item value="com.spel"/>
@@ -53,6 +61,11 @@
 			<item value="com.springcore"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringAopXmlConfiguration"/>
+			<item value="SpringAop"/>
+			<item value="SpringOrmPractice2"/>
+			<item value="HibernateProject"/>
+			<item value="SpringOrmPractice1"/>
 			<item value="SpringOrmApplication"/>
 			<item value="SpringOrm"/>
 			<item value="NoXmlCofiguration"/>
